@@ -1,16 +1,15 @@
-### Hi there 👋
+# *Raul Meinerz* 
+### Desenvolvedor Web
+Olá! Sou o Raul, moro em Santa Maria/RS e curso Sistemas para Internet na Unisinos, ~~além de vários outros cursos paralelos.~~
 
-<!--
-**devmeinerz/devmeinerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sinta-se à vontade para entrar em contato comigo no meu [Linkedin](https://www.linkedin.com/in/raul-meinerz/).
 
-Here are some ideas to get you started:
+###### Estudando no momento:
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=devmeinerz&show_icons=true&theme=ayu-mirage) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmeinerz&layout=compact&theme=ayu-mirage)
+
+
+
+
+
