@@ -1,6 +1,6 @@
 # *Raul Meinerz* 
 ### Desenvolvedor Web
-Olá! Sou o Raul, moro em Santa Maria/RS e curso Sistemas para Internet na Unisinos, ~~além de vários outros cursos paralelos.~~
+Olá! Sou o Raul, moro em Santa Maria/RS e curso Sistemas para Internet, ~~além de vários outros cursos paralelos.~~
 
 Sinta-se à vontade para entrar em contato comigo no meu [Linkedin](https://www.linkedin.com/in/raul-meinerz/).
 
