@@ -6,7 +6,7 @@ Olá! Sou o Raul, tenho 31 anos, moro em Santa Maria/RS e curso Sistemas para In
 Sinta-se à vontade para entrar em contato comigo no meu <a href="https://www.linkedin.com/in/raul-meinerz/" target="_blank">Linkedin<a/>.
 
 ###### Estudando no momento:
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html-5"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css-3"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/><img src="https://img.icons8.com/color/48/000000/graphql.png" alt="graphql"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html-5"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css-3"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="react-native"/><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue-js"/>
 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="node-js"/>
 
