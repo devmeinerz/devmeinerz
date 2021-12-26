@@ -1,6 +1,6 @@
 # *Raul Meinerz* 
 ### Desenvolvedor Web
-Olá! Sou o Raul, tenho 31 anos, moro em Santa Maria/RS e curso Sistemas para Internet na <a href="https://www.unisinos.br/" target="_blank">Unisinos</a>.
+Olá! Sou o Raul, tenho 32 anos, moro em Santa Maria/RS e curso Sistemas para Internet na <a href="https://www.unisinos.br/" target="_blank">Unisinos</a>.
 <br/>Atualmente trabalho como assistente de farmácia no hospital Unimed, e anseio em fazer minha transição de carreira para Desenvolvedor Front-end.
 
 Sinta-se à vontade para entrar em contato comigo no meu <a href="https://www.linkedin.com/in/raul-meinerz/" target="_blank">Linkedin<a/>.
