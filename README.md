@@ -9,7 +9,7 @@ Sinta-se à vontade para entrar em contato comigo no meu <a href="https://www.li
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="html-5"/><img src="https://img.icons8.com/color/48/000000/css3.png" alt="css-3"/><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="javascript"/><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/><img src="https://img.icons8.com/color/48/000000/vue-js.png" alt="vue-js"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="java"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png" alt="node-js"/><img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma"/><img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" alt="adobe-photoshop"/><img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="adobe-xd"/>
 </div>
 <br/>
-<div align="left">
+<div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=devmeinerz&show_icons=true&theme=ayu-mirage"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmeinerz&layout=compact&theme=ayu-mirage"/>
 </div>
